@@ -1,0 +1,16 @@
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\koval\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\koval\source\repos\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form2.resources
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form3.resources
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form4.resources
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form5.resources
+C:\Users\koval\source\repos\Coursework\Coursework\obj\Debug\Coursework.Form6.resources
